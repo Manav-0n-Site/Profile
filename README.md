@@ -1,3 +1,10 @@
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
+
 # 👨‍💻 Manav | 🌐 Manav-0n-Site
 
 ![Profile Banner](https://images.template.net/wp-content/uploads/2016/11/Cartoon-Gif-Animated1.gif)
